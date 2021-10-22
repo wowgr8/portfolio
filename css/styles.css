@@ -1,0 +1,9 @@
+.projects {
+  width: 300px;
+  float: left;
+}
+
+.ordered {
+  width: 300px;
+  float: right;
+}
