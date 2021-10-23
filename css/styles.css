@@ -9,7 +9,7 @@
 .ordered {
   width: 50%;
   border-width: 1px;
-  margin-bottom: 10px;
+  margin-bottom: 5px;
   box-sizing: border-box;
   float: right;
 }
@@ -25,4 +25,13 @@
 
 .center {
   text-align: center;
+}
+
+.foot {
+  text-align: center;
+  margin-top: 300px;
+}
+
+body {
+  background-color: lightblue;
 }
