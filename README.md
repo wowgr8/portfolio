@@ -1,7 +1,7 @@
 # Cesar's Portfolio #
 _By Cesar Lopez_
 This website will showcase what I learned in HTML and CSS through Epicodus!
-[Click here](https://wowgr8.github.) to see my portfolio project..
+[Click here](https://wowgr8.github.io/portfolio/) to see my portfolio project.
 
 ## Technologies Used ##
 
